@@ -1,0 +1,12 @@
+# sublime settings
+Cp.sublime-project
+Cp.sublime-workspace
+
+# I/O
+input.txt
+output.txt
+*.exe
+
+
+# vs code
+.vscode
