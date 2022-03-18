@@ -23,6 +23,7 @@
 |   18   | [Two vs Ten](https://www.codechef.com/problems/TWOVSTEN)                                 | TWOVSTEN   |               [Solution](codechef/problems/Two%20vs%20Ten.cpp)                |
 |   20   | [Tyre Problem](https://www.codechef.com/problems/TYRE)                                   | TYRE       |               [Solution](codechef/problems/Tyre%20problem.cpp)                |
 |   21   | [Weight Balance ](https://www.codechef.com/problems/WEIGHTBL)                            | WEIGHTBL   |              [Solution](codechef/problems/Weight%20Balance.cpp)               |
+|   22   | [Chef and Socks](https://www.codechef.com/problems/CHEFSOCK)                             | CHEFSOCK   |             [Solution](codechef/problems/Chef%20and%20Socks.cpp)              |
 
 
 
