@@ -10,14 +10,14 @@ using namespace std;
 //---------------------- Solution Starts Here ----------------------
 
 void solve() {
-  int s, x=1, y;
+  int s, x=1;
   cin >> s;
 
-  y = s-x;
+  // y = ;
 
   int res;
 
-  res = x*y;
+  res = x*(s-x);
 
   cout << res << el;
 
