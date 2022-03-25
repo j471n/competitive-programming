@@ -20,7 +20,8 @@ void solve() {
 
     if(res==0){
       x++;
-      res = (x++*s)-(x++*x++);
+      res = x*s-x*x;
+      
     }
 
   cout << res << el;
