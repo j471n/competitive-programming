@@ -19,10 +19,8 @@ void solve() {
       res = x*s-x*x;
 
     if(res==0){
-      res = (++x*s)-(++x*++x);
+      res = (x++*s)-(x++*x++);
     }
-
-
 
   cout << res << el;
 
