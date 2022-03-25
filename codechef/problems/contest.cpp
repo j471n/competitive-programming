@@ -19,6 +19,7 @@ void solve() {
       res = x*s-x*x;
 
     if(res==0){
+      x++;
       res = (x++*s)-(x++*x++);
     }
 
