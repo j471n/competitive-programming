@@ -10,36 +10,34 @@ using namespace std;
 //---------------------- Solution Starts Here ----------------------
 
 void solve() {
-  int x;
+  int x, y, a, b;
+  cin >> x >> y >> a >> b ;
 
-  int arr[3];
+  int win = 2;
 
-  for (int i = 0; i < 3; ++i)
-  {
-    cin >> arr[i];
+  // if((x==a) || (x==b) || (y==a) || (y==b)){
+  //   cout << 0 << el;
+  // } 
+
+  if(((x==a) || (x==b)) && ((y==b) || (y==a))){
+    win -= 2;
+  }
+  else if ((x==a) || (x==b)){
+    win--;
+  } else if((y==b) || (y==a)){
+    win--;
   }
 
-  cin >> x;
-
-  for (int i = 0; i < 3; ++i)
-  {
-    if(x == arr[i]) {
-      cout << "yes" << el;
-      exit(0);
-    }
-  }
-
-  cout << "No" << el;
-
+  cout << win << el;
 
 }
 
 //---------------------- Solution Ends Here ----------------------
 
 int main() {
-  // int t;
-  // cin >> t;
-  // while (t--) {
+  int t;
+  cin >> t;
+  while (t--) {
     solve();
-  // }
+  }
 }
