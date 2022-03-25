@@ -17,10 +17,11 @@ void solve() {
 
   int res;
 
-  do
-  {
-    res = x++*s-x++*x++;
-  } while (res > 0);
+    if(res==0){
+      res = (++x*s)-(++x*++x);
+
+    }
+
 
 
   cout << res << el;
