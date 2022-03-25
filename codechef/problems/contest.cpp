@@ -10,26 +10,12 @@ using namespace std;
 //---------------------- Solution Starts Here ----------------------
 
 void solve() {
-  int s, x=1;
+  int s;
   cin >> s;
+  int x=1, y;
+  y = x-s;
 
-
-
-  int res;
-      res = x*s-x*x;
-
-    if(res==0){
-      x++;
-      res = x*s-x*x;
-      
-    }
-
-  cout << res << el;
-
-
-
-
-
+  cout << y << el;
 }
 
 //---------------------- Solution Ends Here ----------------------
