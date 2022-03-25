@@ -10,15 +10,19 @@ using namespace std;
 //---------------------- Solution Starts Here ----------------------
 
 void solve() {
-  cout << 2 << el; 
+  // cout << 2 << el; 
+  int x; cin >> x;
+
+  string res = ((x+7) > 170) ? "Yes" : "No";
+  cout << res << el; 
 }
 
 //---------------------- Solution Ends Here ----------------------
 
 int main() {
-  int t;
-  cin >> t;
-  while (t--) {
+  // int t;
+  // cin >> t;
+  // while (t--) {
     solve();
-  }
+  // }
 }
