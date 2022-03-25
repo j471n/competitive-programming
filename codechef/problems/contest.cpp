@@ -9,35 +9,21 @@ using namespace std;
 
 //---------------------- Solution Starts Here ----------------------
 
-int solve() {
-  int a, b, c, d, sum, x,y, sub, mul, div;
-  cin >> a >> b >> c >> d;
+void solve() {
+  int s, x=1, y;
+  cin >> s;
+
+  y = s-x;
+
+  int res;
+
+  res = x*y;
+
+  cout << res << el;
 
 
-  for(int i=0; i<10000; ++i){
-    x= i;
-    y=i+1;
 
-    sum = x+y;
-    sub = x-y;
-    mul = x*y;
-    div = abs(x/y);
 
-    bool sumCheck =  (sum==a) || (sum ==b) || (sum==c) || (sum==d);
-    bool subCheck =  (sub==a) || (sub ==b) || (sub==c) || (sub==d);
-    bool mulCheck =  (mul==a) || (mul ==b) || (mul==c) || (mul==d);
-    bool divCheck =  (div==a) || (div ==b) || (div==c) || (div==d);
-
-    if(sumCheck && subCheck && mulCheck && divCheck){
-      cout << x << " " << y << el;
-      // break
-      return 0;
-    }
-
-  }
-
-  cout << -1 << " " << -1 << el;
-  return 0;
 
 }
 
@@ -47,6 +33,6 @@ int main() {
   int t;
   cin >> t;
   while (t--) {
-    int i = solve();
+    solve();
   }
 }
