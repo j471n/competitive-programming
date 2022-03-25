@@ -13,13 +13,13 @@ void solve() {
   int s, x=1;
   cin >> s;
 
-  // y = ;
+
 
   int res;
+      res = x*s-x*x;
 
     if(res==0){
       res = (++x*s)-(++x*++x);
-
     }
 
 
