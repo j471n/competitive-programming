@@ -19,7 +19,7 @@ void solve() {
 
   do
   {
-    res = x*s-x*x;
+    res = x++*s-x++*x++;
   } while (res > 0);
 
 
