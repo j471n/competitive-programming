@@ -9,7 +9,7 @@ using namespace std;
 
 //---------------------- Solution Starts Here ----------------------
 
-void solve() {
+int solve() {
   int a, b, c, d, sum, x,y, sub, mul, div;
   cin >> a >> b >> c >> d;
 
@@ -30,11 +30,14 @@ void solve() {
 
     if(sumCheck && subCheck && mulCheck && divCheck){
       cout << x << " " << y << el;
+      // break
+      return 0;
     }
 
   }
 
   cout << -1 << " " << -1 << el;
+  return 0;
 
 }
 
@@ -44,6 +47,6 @@ int main() {
   int t;
   cin >> t;
   while (t--) {
-    solve();
+    int i = solve();
   }
 }
