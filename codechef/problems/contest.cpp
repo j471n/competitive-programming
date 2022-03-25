@@ -30,14 +30,11 @@ void solve() {
 
     if(sumCheck && subCheck && mulCheck && divCheck){
       cout << x << " " << y << el;
-      exit(0);
     }
 
   }
 
   cout << -1 << " " << -1 << el;
-
-
 
 }
 
