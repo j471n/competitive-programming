@@ -13,7 +13,7 @@ void solve() {
   int s;
   cin >> s;
   int x=1, y;
-  y = x-s;
+  y = -x-s;
 
   cout << y << el;
 }
