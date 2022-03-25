@@ -17,7 +17,7 @@ void solve() {
 
   int res;
 
-  res = x*(s-x);
+  res = x*s-x*x;
 
   cout << res << el;
 
