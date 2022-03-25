@@ -25,6 +25,7 @@ void solve() {
   {
     if(x == arr[i]) {
       cout << "yes" << el;
+      exit(0);
     }
   }
 
