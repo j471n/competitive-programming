@@ -10,11 +10,27 @@ using namespace std;
 //---------------------- Solution Starts Here ----------------------
 
 void solve() {
-  // cout << 2 << el; 
-  int x; cin >> x;
+  int x;
 
-  string res = ((x+7) > 170) ? "Yes" : "No";
-  cout << res << el; 
+  int arr[3];
+
+  for (int i = 0; i < 3; ++i)
+  {
+    cin >> arr[i];
+  }
+
+  cin >> x;
+
+  for (int i = 0; i < 3; ++i)
+  {
+    if(x == arr[i]) {
+      cout << "yes" << el;
+    }
+  }
+
+  cout << "No" << el;
+
+
 }
 
 //---------------------- Solution Ends Here ----------------------
