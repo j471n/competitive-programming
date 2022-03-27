@@ -5,8 +5,13 @@ Cp.sublime-workspace
 # I/O
 input.txt
 output.txt
+error.txt
 *.exe
 
+# contest
+contest.cpp
 
 # vs code
 .vscode
+default.cpp
+default.cpp
