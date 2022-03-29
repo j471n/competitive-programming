@@ -1,4 +1,14 @@
-# Solutions for Codechef Problems in C++
+
+
+# Codechef
+
+- [Codechef](#codechef)
+  - [Problem Set](#problem-set)
+  - [Contests](#contests)
+    - [March Long Two 2022](#march-long-two-2022)
+  
+
+## Problem Set
 
 | Sr No. | Problems                                                                                 | Code       |                                   Solution                                    |
 | :----: | ---------------------------------------------------------------------------------------- | :--------- | :---------------------------------------------------------------------------: |
@@ -24,7 +34,24 @@
 |   20   | [Tyre Problem](https://www.codechef.com/problems/TYRE)                                   | TYRE       |               [Solution](codechef/problems/Tyre%20problem.cpp)                |
 |   21   | [Weight Balance ](https://www.codechef.com/problems/WEIGHTBL)                            | WEIGHTBL   |              [Solution](codechef/problems/Weight%20Balance.cpp)               |
 |   22   | [Chef and Socks](https://www.codechef.com/problems/CHEFSOCK)                             | CHEFSOCK   |             [Solution](codechef/problems/Chef%20and%20Socks.cpp)              |
+|   23   | [Credit score](https://www.codechef.com/problems/CREDSCORE)                              | CREDSCORE  |               [Solution](codechef/problems/Credit%20Score.cpp)                |
+|   24   | [CRED Coins](https://www.codechef.com/problems/CREDCOINS)                                | CREDCOINS  |                [Solution](codechef/problems/CRED%20Coins.cpp)                 |
 
 
+
+<!-- |      | []()                                                                                     |            |                         [Solution](codechef/problems)                         | -->
+
+## Contests
+
+### March Long Two 2022
+
+| Sr No. | Problems                                                                                      | Code        |                                             Solution                                             |
+| :----: | --------------------------------------------------------------------------------------------- | :---------- | :----------------------------------------------------------------------------------------------: |
+|   1    | [Increase IQ](https://www.codechef.com/MARCH222D/problems/INCRIQ)                             | INCRIQ      |                 [Solution](codechef/March%20Long%20Two%202022/Increase%20IQ.cpp)                 |
+|   2    | [The Three Topics](https://www.codechef.com/MARCH222D/problems/THREETOPICS)                   | THREETOPICS |             [Solution](codechef/March%20Long%20Two%202022/The%20Three%20Topics.cpp)              |
+|   3    | [Chef and Races](https://www.codechef.com/MARCH222D/problems/CHEFRACES)                       | CHEFRACES   |              [Solution](codechef/March%20Long%20Two%202022/Chef%20and%20Races.cpp)               |
+|   4    | [The Rating Dilemma](https://www.codechef.com/MARCH222D/problems/RATING)                      | RATING      |            [Solution](codechef/March%20Long%20Two%202022/The%20Rating%20Dilemma.cpp)             |
+|   5    | [Missing Numbers](https://www.codechef.com/MARCH222D/problems/MISS_NUM)                       | MISS_NUM    |               [Solution](codechef/March%20Long%20Two%202022/Missing%20Numbers.cpp)               |
+|   6    | [Same Parity Swaps in Binary Strings](https://www.codechef.com/MARCH222D/problems/MAX01EVSWP) | MAX01EVSWP  | [Solution](codechef/March%20Long%20Two%202022/Same%20Parity%20Swaps%20in%20Binary%20Strings.cpp) |
 
 <!-- |      | []()                                                                                     |            |                         [Solution](codechef/problems)                         | -->
