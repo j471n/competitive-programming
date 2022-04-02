@@ -13,4 +13,6 @@ contest.cpp
 
 # vs code
 .vscode
+
 default.cpp
+codejam.cpp

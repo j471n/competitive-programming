@@ -1,13 +1,13 @@
+# Competitive Programming Solution in C++
 
-
-# Codechef
-
+- [Competitive Programming Solution in C++](#competitive-programming-solution-in-c)
 - [Codechef](#codechef)
   - [Problem Set](#problem-set)
   - [Contests](#contests)
     - [March Long Two 2022](#march-long-two-2022)
+    - [April Cook-Off 2022 (COOK140)](#april-cook-off-2022-cook140)
   
-
+# Codechef
 ## Problem Set
 
 | Sr No. | Problems                                                                                 | Code        |                                   Solution                                    |
@@ -49,7 +49,7 @@
 
 ## Contests
 
-### March Long Two 2022
+### [March Long Two 2022](https://www.codechef.com/MARCH222)
 
 | Sr No. | Problems                                                                                      | Code        |                                             Solution                                             |
 | :----: | --------------------------------------------------------------------------------------------- | :---------- | :----------------------------------------------------------------------------------------------: |
@@ -60,4 +60,13 @@
 |   5    | [Missing Numbers](https://www.codechef.com/MARCH222D/problems/MISS_NUM)                       | MISS_NUM    |               [Solution](codechef/March%20Long%20Two%202022/Missing%20Numbers.cpp)               |
 |   6    | [Same Parity Swaps in Binary Strings](https://www.codechef.com/MARCH222D/problems/MAX01EVSWP) | MAX01EVSWP  | [Solution](codechef/March%20Long%20Two%202022/Same%20Parity%20Swaps%20in%20Binary%20Strings.cpp) |
 
-<!-- |      | []()                                                                                     |            |                         [Solution](codechef/problems)                         | -->
+### [April Cook-Off 2022 (COOK140)](https://www.codechef.com/COOK140/)
+
+
+| Sr No. | Problem Code                                                      |                          Solution                          |
+| :----: | ----------------------------------------------------------------- | :--------------------------------------------------------: |
+|   1    | [EMAILREM](https://www.codechef.com/COOK140D/problems/EMAILREM)   | [Solution](codechef/April%20Cook-Off%202022/EMAILREM.cpp)  |
+|   2    | [CHEFPAGES](https://www.codechef.com/COOK140D/problems/CHEFPAGES) | [Solution](codechef/April%20Cook-Off%202022/CHEFPAGES.cpp) |
+|   3    | [DIGSMPAR](https://www.codechef.com/COOK140D/problems/DIGSMPAR)   | [Solution](codechef/April%20Cook-Off%202022/DIGSMPAR.cpp)  |
+|   4    | [DIGARR](https://www.codechef.com/COOK140D/problems/DIGARR)       |  [Solution](codechef/April%20Cook-Off%202022/DIGARR.cpp)   |
+|   5    | [FUNHAND](https://www.codechef.com/COOK140D/problems/FUNHAND)     |  [Solution](codechef/April%20Cook-Off%202022/FUNHAND.cpp)  |
