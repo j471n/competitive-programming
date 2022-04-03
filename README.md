@@ -6,6 +6,7 @@
   - [Contests](#contests)
     - [March Long Two 2022](#march-long-two-2022)
     - [April Cook-Off 2022 (COOK140)](#april-cook-off-2022-cook140)
+    - [Code Mania (COMA2022)](#code-mania-coma2022)
   
 # Codechef
 ## Problem Set
@@ -62,7 +63,6 @@
 
 ### [April Cook-Off 2022 (COOK140)](https://www.codechef.com/COOK140/)
 
-
 | Sr No. | Problem Code                                                      |                          Solution                          |
 | :----: | ----------------------------------------------------------------- | :--------------------------------------------------------: |
 |   1    | [EMAILREM](https://www.codechef.com/COOK140D/problems/EMAILREM)   | [Solution](codechef/April%20Cook-Off%202022/EMAILREM.cpp)  |
@@ -70,3 +70,16 @@
 |   3    | [DIGSMPAR](https://www.codechef.com/COOK140D/problems/DIGSMPAR)   | [Solution](codechef/April%20Cook-Off%202022/DIGSMPAR.cpp)  |
 |   4    | [DIGARR](https://www.codechef.com/COOK140D/problems/DIGARR)       |  [Solution](codechef/April%20Cook-Off%202022/DIGARR.cpp)   |
 |   5    | [FUNHAND](https://www.codechef.com/COOK140D/problems/FUNHAND)     |  [Solution](codechef/April%20Cook-Off%202022/FUNHAND.cpp)  |
+
+
+### [Code Mania (COMA2022)](https://www.codechef.com/COMA2022/)
+
+| Sr No. | Problem Code                                                        |                        Solution                         |
+| :----: | ------------------------------------------------------------------- | :-----------------------------------------------------: |
+|   1    | [AGECAT1](https://www.codechef.com/COMA2022/problems/AGECAT1)       |  [Solution](codechef/Code%20Mania%202022/AGECAT1.cpp)   |
+|   2    | [HAWKINTERN](https://www.codechef.com/COMA2022/problems/HAWKINTERN) | [Solution](codechef/Code%20Mania%202022/HAWKINTERN.cpp) |
+
+
+
+
+<!-- |      | []()                                                                                     |            |                         [Solution](codechef)                         | -->
