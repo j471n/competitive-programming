@@ -43,6 +43,7 @@
 |   28   | [Chef and digits of a number](https://www.codechef.com/problems/LONGSEQ)                 | LONGSEQ     |    [Solution](codechef/problems/Chef%20and%20digits%20of%20a%20number.cpp)    |
 |   29   | [Brackets](https://www.codechef.com/problems/BRACKETS)                                   | BRACKETS    |                  [Solution](codechef/problems/Brackets.cpp)                   |
 |   30   | [Making a Meal](https://www.codechef.com/problems/CFMM)                                  | CFMM        |              [Solution](codechef/problems/Making%20a%20Meal.cpp)              |
+|   31   | [Plus Multiply](https://www.codechef.com/problems/PLMU)                                  | PLMU        |               [Solution](codechef/problems/Plus%20Multiply.cpp)               |
 
 
 <!-- |      | []()                                                                                     |            |                         [Solution](codechef/problems)                         | -->
