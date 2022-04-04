@@ -75,12 +75,12 @@
 
 ### [Code Mania (COMA2022)](https://www.codechef.com/COMA2022/)
 
-| Sr No. | Problem Code                                                        |                        Solution                         |
-| :----: | ------------------------------------------------------------------- | :-----------------------------------------------------: |
-|   1    | [AGECAT1](https://www.codechef.com/COMA2022/problems/AGECAT1)       |  [Solution](codechef/Code%20Mania%202022/AGECAT1.cpp)   |
-|   2    | [HAWKINTERN](https://www.codechef.com/COMA2022/problems/HAWKINTERN) | [Solution](codechef/Code%20Mania%202022/HAWKINTERN.cpp) |
+| Sr No. | Problem Code                                                          |                         Solution                         |
+| :----: | --------------------------------------------------------------------- | :------------------------------------------------------: |
+|   1    | [AGECAT1](https://www.codechef.com/COMA2022/problems/AGECAT1)         |   [Solution](codechef/Code%20Mania%202022/AGECAT1.cpp)   |
+|   2    | [HAWKINTERN](https://www.codechef.com/COMA2022/problems/HAWKINTERN)   | [Solution](codechef/Code%20Mania%202022/HAWKINTERN.cpp)  |
+|   3    | [INTEGERGAME](https://www.codechef.com/COMA2022/problems/INTEGERGAME) | [Solution](codechef/Code%20Mania%202022/INTEGERGAME.cpp) |
+|   4    | [XORPAIR](https://www.codechef.com/COMA2022/problems/XORPAIR)         |   [Solution](codechef/Code%20Mania%202022/XORPAIR.cpp)   |
+|   5    | [MYNAME](https://www.codechef.com/COMA2022/problems/MYNAME)         |   [Solution](codechef/Code%20Mania%202022/MYNAME.cpp)   |
 
 
-
-
-<!-- |      | []()                                                                                     |            |                         [Solution](codechef)                         | -->
