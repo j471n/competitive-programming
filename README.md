@@ -7,7 +7,7 @@
     - [March Long Two 2022](#march-long-two-2022)
     - [April Cook-Off 2022 (COOK140)](#april-cook-off-2022-cook140)
     - [Code Mania (COMA2022)](#code-mania-coma2022)
-  - [Starters 33 (START33)](#starters-33-start33)
+    - [Starters 33 (START33)](#starters-33-start33)
   
 # Codechef
 ## Problem Set
@@ -85,7 +85,7 @@
 |   5    | [MYNAME](https://www.codechef.com/COMA2022/problems/MYNAME)           |   [Solution](codechef/Code%20Mania%202022/MYNAME.cpp)    |
 
 
-## [Starters 33 (START33)](https://www.codechef.com/START33)
+### [Starters 33 (START33)](https://www.codechef.com/START33)
 
 | Sr No. | Problem Code                                                        |                      Solution                      |
 | :----: | ------------------------------------------------------------------- | :------------------------------------------------: |
