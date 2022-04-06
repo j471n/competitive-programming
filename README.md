@@ -7,6 +7,7 @@
     - [March Long Two 2022](#march-long-two-2022)
     - [April Cook-Off 2022 (COOK140)](#april-cook-off-2022-cook140)
     - [Code Mania (COMA2022)](#code-mania-coma2022)
+  - [Starters 33 (START33)](#starters-33-start33)
   
 # Codechef
 ## Problem Set
@@ -84,3 +85,15 @@
 |   5    | [MYNAME](https://www.codechef.com/COMA2022/problems/MYNAME)           |   [Solution](codechef/Code%20Mania%202022/MYNAME.cpp)    |
 
 
+## [Starters 33 (START33)](https://www.codechef.com/START33)
+
+| Sr No. | Problem Code                                                        |                      Solution                      |
+| :----: | ------------------------------------------------------------------- | :------------------------------------------------: |
+|   1    | [CABS](https://www.codechef.com/START33D/problems/CABS)             |    [Solution](.codechef/Starters%2033/CABS.cpp)    |
+|   2    | [BUDGET\_](https://www.codechef.com/START33D/problems/BUDGET_)      |  [Solution](/codechef/Starters%2033/BUDGET_.cpp)   |
+|   3    | [MINCARS](https://www.codechef.com/START33D/problems/MINCARS)       |  [Solution](/codechef/Starters%2033/MINCARS.cpp)   |
+|   4    | [NONADJFLIP](https://www.codechef.com/START33D/problems/NONADJFLIP) | [Solution](/codechef/Starters%2033/NONADJFLIP.cpp) |
+|   5    | [DISTDILEM](https://www.codechef.com/START33D/problems/DISTDILEM)   | [Solution](/codechef/Starters%2033/DISTDILEM.cpp)  |
+|   6    | [MTE](https://www.codechef.com/START33D/problems/MTE)               |    [Solution](/codechef/Starters%2033/MTE.cpp)     |
+|   7    | [BRKNLIFE](https://www.codechef.com/START33D/problems/BRKNLIFE)     |  [Solution](/codechef/Starters%2033/BRKNLIFE.cpp)  |
+|   8    | [STBMEX](https://www.codechef.com/START33D/problems/STBMEX)         |   [Solution](/codechef/Starters%2033/STBMEX.cpp)   |
