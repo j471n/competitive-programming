@@ -4,10 +4,11 @@
 - [Codechef](#codechef)
   - [Problem Set](#problem-set)
   - [Contests](#contests)
-    - [March Long Two 2022](#march-long-two-2022)
+    - [March Long - II 2022 (MARCH222)](#march-long---ii-2022-march222)
     - [April Cook-Off 2022 (COOK140)](#april-cook-off-2022-cook140)
     - [Code Mania (COMA2022)](#code-mania-coma2022)
     - [Starters 33 (START33)](#starters-33-start33)
+    - [Coding Days (CDAY2022)](#coding-days-cday2022)
   
 # Codechef
 ## Problem Set
@@ -52,7 +53,7 @@
 
 ## Contests
 
-### [March Long Two 2022](https://www.codechef.com/MARCH222)
+### [March Long - II 2022 (MARCH222)](https://www.codechef.com/MARCH222)
 
 | Sr No. | Problems                                                                                      | Code        |                                             Solution                                             |
 | :----: | --------------------------------------------------------------------------------------------- | :---------- | :----------------------------------------------------------------------------------------------: |
@@ -89,7 +90,7 @@
 
 | Sr No. | Problem Code                                                        |                      Solution                      |
 | :----: | ------------------------------------------------------------------- | :------------------------------------------------: |
-|   1    | [CABS](https://www.codechef.com/START33D/problems/CABS)             |    [Solution](.codechef/Starters%2033/CABS.cpp)    |
+|   1    | [CABS](https://www.codechef.com/START33D/problems/CABS)             |    [Solution](/codechef/Starters%2033/CABS.cpp)    |
 |   2    | [BUDGET\_](https://www.codechef.com/START33D/problems/BUDGET_)      |  [Solution](/codechef/Starters%2033/BUDGET_.cpp)   |
 |   3    | [MINCARS](https://www.codechef.com/START33D/problems/MINCARS)       |  [Solution](/codechef/Starters%2033/MINCARS.cpp)   |
 |   4    | [NONADJFLIP](https://www.codechef.com/START33D/problems/NONADJFLIP) | [Solution](/codechef/Starters%2033/NONADJFLIP.cpp) |
@@ -97,3 +98,21 @@
 |   6    | [MTE](https://www.codechef.com/START33D/problems/MTE)               |    [Solution](/codechef/Starters%2033/MTE.cpp)     |
 |   7    | [BRKNLIFE](https://www.codechef.com/START33D/problems/BRKNLIFE)     |  [Solution](/codechef/Starters%2033/BRKNLIFE.cpp)  |
 |   8    | [STBMEX](https://www.codechef.com/START33D/problems/STBMEX)         |   [Solution](/codechef/Starters%2033/STBMEX.cpp)   |
+
+
+### [Coding Days (CDAY2022)](https://www.codechef.com/CDAY2022/)
+
+| Sr No. | Problem Code                                                |                       Solution                        |
+| :----: | ----------------------------------------------------------- | :---------------------------------------------------: |
+|   1    | [CODEA1](https://www.codechef.com/CDAY2022/problems/CODEA1) | [Solution](/codechef/Coding%20Days%202022/CODEA1.cpp) |
+|   2    | [CODEA2](https://www.codechef.com/CDAY2022/problems/CODEA2) | [Solution](/codechef/Coding%20Days%202022/CODEA2.cpp) |
+|   3    | [CODEA3](https://www.codechef.com/CDAY2022/problems/CODEA3) | [Solution](/codechef/Coding%20Days%202022/CODEA3.cpp) |
+|   4    | [CODEA4](https://www.codechef.com/CDAY2022/problems/CODEA4) | [Solution](/codechef/Coding%20Days%202022/CODEA4.cpp) |
+|   5    | [CODEA5](https://www.codechef.com/CDAY2022/problems/CODEA5) | [Solution](/codechef/Coding%20Days%202022/CODEA5.cpp) |
+
+
+
+
+<!-- | Sr No. | Problem Code |   Solution   |
+| :----: | ------------ | :----------: |
+| 1 | []() | [Solution]() | -->
