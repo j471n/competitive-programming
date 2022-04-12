@@ -9,6 +9,7 @@
     - [Code Mania (COMA2022)](#code-mania-coma2022)
     - [Starters 33 (START33)](#starters-33-start33)
     - [Coding Days (CDAY2022)](#coding-days-cday2022)
+    - [April Long - I 2022 (APRIL221)](#april-long---i-2022-april221)
   
 # Codechef
 ## Problem Set
@@ -111,8 +112,20 @@
 |   5    | [CODEA5](https://www.codechef.com/CDAY2022/problems/CODEA5) | [Solution](/codechef/Coding%20Days%202022/CODEA5.cpp) |
 
 
+### [April Long - I 2022 (APRIL221)](https://www.codechef.com/APRIL221)
+
+| Sr No. | Problem Code                                                             |                             Solution                             |
+| :----: | ------------------------------------------------------------------------ | :--------------------------------------------------------------: |
+|   1    | [MANIPULATE](https://www.codechef.com/APRIL221D/problems/MANIPULATE)     |  [Solution](/codechef/April%20Long%20One%202022/MANIPULATE.cpp)  |
+|   2    | [WATERCOOLER1](https://www.codechef.com/APRIL221D/problems/WATERCOOLER1) | [Solution](/codechef/April%20Long%20One%202022/WATERCOOLER1.cpp) |
+|   3    | [WATERCOOLER2](https://www.codechef.com/APRIL221D/problems/WATERCOOLER2) | [Solution](/codechef/April%20Long%20One%202022/WATERCOOLER2.cpp) |
+|   4    | [NOTUNIT](https://www.codechef.com/APRIL221D/problems/NOTUNIT)           |   [Solution](/codechef/April%20Long%20One%202022/NOTUNIT.cpp)    |
+|   5    | [PRIMESM](https://ww.codechef.com/APRIL221D/problems/PRIMESM)            |   [Solution](/codechef/April%20Long%20One%202022/PRIMESM.cpp)    |
+|   6    | [AXNODR](https://www.codechef.com/APRIL221D/problems/AXNODR)             |    [Solution](/codechef/April%20Long%20One%202022/AXNODR.cpp)    |
+|   7    | [XORABC](https://www.codechef.com/APRIL221D/problems/XORABC)             |    [Solution](/codechef/April%20Long%20One%202022/XORABC.cpp)    |
+|   8    | [MINMAXEQ](https://www.codechef.com/APRIL221D/problems/MINMAXEQ)         |   [Solution](/codechef/April%20Long%20One%202022/MINMAXEQ.cpp)   |
 
 
 <!-- | Sr No. | Problem Code |   Solution   |
 | :----: | ------------ | :----------: |
-| 1 | []() | [Solution]() | -->
+|   1    | []()         | [Solution]() | -->
