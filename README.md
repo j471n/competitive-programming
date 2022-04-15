@@ -10,6 +10,7 @@
     - [Starters 33 (START33)](#starters-33-start33)
     - [Coding Days (CDAY2022)](#coding-days-cday2022)
     - [April Long - I 2022 (APRIL221)](#april-long---i-2022-april221)
+    - [Starters 34 (START34)](#starters-34-start34)
   
 # Codechef
 ## Problem Set
@@ -126,6 +127,19 @@
 |   8    | [MINMAXEQ](https://www.codechef.com/APRIL221D/problems/MINMAXEQ)         |   [Solution](/codechef/April%20Long%20One%202022/MINMAXEQ.cpp)   |
 
 
+### [Starters 34 (START34)](https://www.codechef.com/START34)
+
+| Sr No. | Problem Code                                                      |                     Solution                      |
+| :----: | ----------------------------------------------------------------- | :-----------------------------------------------: |
+|   1    | [TRUESCORE](https://www.codechef.com/START34C/problems/TRUESCORE) | [Solution](/codechef/Starters%2034/TRUESCORE.cpp) |
+|   2    | [BULBLIFE](https://www.codechef.com/START34C/problems/BULBLIFE)   | [Solution](/codechef/Starters%2034/BULBLIFE.cpp)  |
+|   3    | [AVGARR](https://www.codechef.com/START34C/problems/AVGARR)       |  [Solution](/codechef/Starters%2034/AVGARR.cpp)   |
+|   4    | [EXPIRY](https://www.codechef.com/START34C/problems/EXPIRY)       |  [Solution](/codechef/Starters%2034/EXPIRY.cpp)   |
+|   5    | [BINMIS](https://www.codechef.com/START34C/problems/BINMIS)       |  [Solution](/codechef/Starters%2034/BINMIS.cpp)   |
+|   6    | [GDPERM](https://www.codechef.com/START34C/problems/GDPERM)       |  [Solution](/codechef/Starters%2034/GDPERM.cpp)   |
+|   7    | [POSPROD](https://www.codechef.com/START34C/problems/POSPROD)     |  [Solution](/codechef/Starters%2034/POSPROD.cpp)  |
+
+
 <!-- | Sr No. | Problem Code |   Solution   |
 | :----: | ------------ | :----------: |
-|   1    | []()         | [Solution]() | -->
+| 1 | []() | [Solution]() | -->
