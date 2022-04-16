@@ -11,6 +11,7 @@
     - [Coding Days (CDAY2022)](#coding-days-cday2022)
     - [April Long - I 2022 (APRIL221)](#april-long---i-2022-april221)
     - [Starters 34 (START34)](#starters-34-start34)
+    - [April Lunchtime 2022](#april-lunchtime-2022)
   
 # Codechef
 ## Problem Set
@@ -138,6 +139,18 @@
 |   5    | [BINMIS](https://www.codechef.com/START34C/problems/BINMIS)       |  [Solution](/codechef/Starters%2034/BINMIS.cpp)   |
 |   6    | [GDPERM](https://www.codechef.com/START34C/problems/GDPERM)       |  [Solution](/codechef/Starters%2034/GDPERM.cpp)   |
 |   7    | [POSPROD](https://www.codechef.com/START34C/problems/POSPROD)     |  [Solution](/codechef/Starters%2034/POSPROD.cpp)  |
+
+BULLET
+
+### [April Lunchtime 2022](https://www.codechef.com/LTIME107)
+| Sr No. | Problem Code                                                       |                           Solution                           |
+| :----: | ------------------------------------------------------------------ | :----------------------------------------------------------: |
+|   1    | [LTIME](https://www.codechef.com/LTIME107C/problems/LTIME)         |   [Solution](/codechef/April%20Lunchtime%202022/LTIME.cpp)   |
+|   2    | [TRANSFORM](https://www.codechef.com/LTIME107C/problems/TRANSFORM) | [Solution](/codechef/April%20Lunchtime%202022/TRANSFORM.cpp) |
+|   3    | [BULLET](https://www.codechef.com/LTIME107C/problems/BULLET)       |  [Solution](/codechef/April%20Lunchtime%202022/BULLET.cpp)   |
+|   4    | [PAIRPAIN](https://www.codechef.com/LTIME107C/problems/PAIRPAIN)   | [Solution](/codechef/April%20Lunchtime%202022/PAIRPAIN.cpp)  |
+|   5    | [BFOC](https://www.codechef.com/LTIME107C/problems/BFOC)           |   [Solution](/codechef/April%20Lunchtime%202022/BFOC.cpp)    |
+|   6    | [PALINPAIN](https://www.codechef.com/LTIME107C/problems/PALINPAIN) | [Solution](/codechef/April%20Lunchtime%202022/PALINPAIN.cpp) |
 
 
 <!-- | Sr No. | Problem Code |   Solution   |
