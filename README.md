@@ -12,6 +12,7 @@
     - [April Long - I 2022 (APRIL221)](#april-long---i-2022-april221)
     - [Starters 34 (START34)](#starters-34-start34)
     - [April Lunchtime 2022](#april-lunchtime-2022)
+    - [Starters 35 (START35)](#starters-35-start35)
   
 # Codechef
 ## Problem Set
@@ -150,6 +151,19 @@
 |   4    | [PAIRPAIN](https://www.codechef.com/LTIME107C/problems/PAIRPAIN)   | [Solution](/codechef/April%20Lunchtime%202022/PAIRPAIN.cpp)  |
 |   5    | [BFOC](https://www.codechef.com/LTIME107C/problems/BFOC)           |   [Solution](/codechef/April%20Lunchtime%202022/BFOC.cpp)    |
 |   6    | [PALINPAIN](https://www.codechef.com/LTIME107C/problems/PALINPAIN) | [Solution](/codechef/April%20Lunchtime%202022/PALINPAIN.cpp) |
+
+
+### [Starters 35 (START35)](https://www.codechef.com/START35)
+
+| Sr No. | Problem Code                                                      |                     Solution                     |
+| :----: | ----------------------------------------------------------------- | :----------------------------------------------: |
+|   1    | [DARLIG](https://www.codechef.com/START35B/problems/DARLIG)       |  [Solution](/codechef/Starters%2035/DARLIG.cpp)  |
+|   2    | [WATERREQ](https://www.codechef.com/START35B/problems/WATERREQ)   | [Solution](/codechef/Starters%2035/WATERREQ.cpp) |
+|   3    | [JENGA](https://www.codechef.com/START35B/problems/JENGA)         |  [Solution](/codechef/Starters%2035/JENGA.cpp)   |
+|   4    | [POLTHIEF](https://www.codechef.com/START35B/problems/POLTHIEF)   | [Solution](/codechef/Starters%2035/POLTHIEF.cpp) |
+|   5    | [ADMINSHOP](https://www.codechef.com/START35B/problems/ADMINSHOP) |   [C++](/codechef/Starters%2035/ADMINSHOP.cpp)   |
+|   5    | [ADMINSHOP](https://www.codechef.com/START35B/problems/ADMINSHOP) |  [Python](/codechef/Starters%2035/ADMINSHOP.py)  |
+|   6    | [JS](https://www.codechef.com/START35B/problemsJS/)               |    [Solution](/codechef/Starters%2035/JS.cpp)    |
 
 
 <!-- | Sr No. | Problem Code |   Solution   |
