@@ -49,6 +49,7 @@
 |   29   | [Brackets](https://www.codechef.com/problems/BRACKETS)                                   | BRACKETS    |                  [Solution](codechef/problems/Brackets.cpp)                   |
 |   30   | [Making a Meal](https://www.codechef.com/problems/CFMM)                                  | CFMM        |              [Solution](codechef/problems/Making%20a%20Meal.cpp)              |
 |   31   | [Plus Multiply](https://www.codechef.com/problems/PLMU)                                  | PLMU        |               [Solution](codechef/problems/Plus%20Multiply.cpp)               |
+|   32   | [The Army](https://www.codechef.com/problems/ANUARM)                                     | ANUARM      |                 [Solution](codechef/problems/The%20Army.cpp)                  |
 
 
 <!-- |      | []()                                                                                     |            |                         [Solution](codechef/problems)                         | -->
@@ -139,8 +140,6 @@
 |   5    | [BINMIS](https://www.codechef.com/START34C/problems/BINMIS)       |  [Solution](/codechef/Starters%2034/BINMIS.cpp)   |
 |   6    | [GDPERM](https://www.codechef.com/START34C/problems/GDPERM)       |  [Solution](/codechef/Starters%2034/GDPERM.cpp)   |
 |   7    | [POSPROD](https://www.codechef.com/START34C/problems/POSPROD)     |  [Solution](/codechef/Starters%2034/POSPROD.cpp)  |
-
-BULLET
 
 ### [April Lunchtime 2022](https://www.codechef.com/LTIME107)
 | Sr No. | Problem Code                                                       |                           Solution                           |
