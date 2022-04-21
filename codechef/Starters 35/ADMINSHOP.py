@@ -1,6 +1,6 @@
 '''
  * Solution By : Jatin Sharma
- * Language : C++
+ * Language : Python 3.6+
  * Problem Name : Admins and Shopping
  * Problem : https://www.codechef.com/START35B/problems/ADMINSHOP
 '''
