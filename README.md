@@ -1,6 +1,4 @@
-# Competitive Programming Solution in C++
 
-- [Competitive Programming Solution in C++](#competitive-programming-solution-in-c)
 - [Codechef](#codechef)
   - [Problem Set](#problem-set)
   - [Contests](#contests)
@@ -13,6 +11,9 @@
     - [Starters 34 (START34)](#starters-34-start34)
     - [April Lunchtime 2022](#april-lunchtime-2022)
     - [Starters 35 (START35)](#starters-35-start35)
+    - [April Long - II  2022 (APRIL222)](#april-long---ii--2022-april222)
+    - [Starters 37 (START37)](#starters-37-start37)
+    - [May Long - I  2022 (MAY221)](#may-long---i--2022-may221)
   
 # Codechef
 ## Problem Set
@@ -175,6 +176,37 @@
 |   5    | [ADMINSHOP](https://www.codechef.com/START35B/problems/ADMINSHOP) |   [C++](/codechef/Starters%2035/ADMINSHOP.cpp)   |
 |   5    | [ADMINSHOP](https://www.codechef.com/START35B/problems/ADMINSHOP) |  [Python](/codechef/Starters%2035/ADMINSHOP.py)  |
 |   6    | [JS](https://www.codechef.com/START35B/problemsJS/)               |    [Solution](/codechef/Starters%2035/JS.cpp)    |
+
+
+
+### [April Long - II  2022 (APRIL222)](https://www.codechef.com/APRIL222)
+
+| Sr No. | Problem Code                                                         |                            Solution                            |
+| :----: | -------------------------------------------------------------------- | :------------------------------------------------------------: |
+|   1    | [SIXFRIENDS](https://www.codechef.com/APRIL222D/problems/SIXFRIENDS) | [Solution](/codechef/April%20Long%20Two%202022/SIXFRIENDS.cpp) |
+|   2    | [CHEAPFOOD](https://www.codechef.com/APRIL222D/problems/CHEAPFOOD)   | [Solution](/codechef/April%20Long%20Two%202022/CHEAPFOOD.cpp)  |
+|   3    | [SST](https://www.codechef.com/APRIL222D/problems/SST)               |    [Solution](/codechef/April%20Long%20Two%202022/SST.cpp)     |
+|   4    | [PSEUDOSORT](https://www.codechef.com/APRIL222D/problems/PSEUDOSORT) | [Solution](/codechef/April%20Long%20Two%202022/PSEUDOSORT.cpp) |
+
+
+### [Starters 37 (START37)](https://www.codechef.com/START37)
+
+| Sr No. | Problem Code                                                      |                     Solution                      |
+| :----: | ----------------------------------------------------------------- | :-----------------------------------------------: |
+|   1    | [MINHEIGHT](https://www.codechef.com/START37D/problems/MINHEIGHT) | [Solution](/codechef/Starters%2037/MINHEIGHT.cpp) |
+|   2    | [MANGOES](https://www.codechef.com/START37D/problems/MANGOES)     |  [Solution](/codechef/Starters%2037/MANGOES.cpp)  |
+
+
+
+### [May Long - I  2022 (MAY221)](https://www.codechef.com/MAY221)
+
+| Sr No. | Problem Code                                                         |                           Solution                            |
+| :----: | -------------------------------------------------------------------- | :-----------------------------------------------------------: |
+|   1    | [FOOTCUP](https://www.codechef.com/MAY221D/problems/FOOTCUP)         |   [Solution](/codechef/May%20Long%20One%202022/FOOTCUP.cpp)   |
+|   2    | [F1RULE](https://www.codechef.com/MAY221D/problems/F1RULE)           |   [Solution](/codechef/May%20Long%20One%202022/F1RULE.cpp)    |
+|   3    | [SUGARCANE](https://www.codechef.com/MAY221D/problems/SUGARCANE)     |  [Solution](/codechef/May%20Long%20One%202022/SUGARCANE.cpp)  |
+|   4    | [QUEENATTACK](https://www.codechef.com/MAY221D/problems/QUEENATTACK) | [Solution](/codechef/May%20Long%20One%202022/QUEENATTACK.cpp) |
+
 
 
 <!-- | Sr No. | Problem Code |   Solution   |
