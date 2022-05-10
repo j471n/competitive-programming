@@ -51,9 +51,20 @@
 |   30   | [CFMM](https://www.codechef.com/problems/CFMM)                 | [Solution](codechef/problems/CFMM.cpp)        |
 |   31   | [PLMU](https://www.codechef.com/problems/PLMU)                 | [Solution](codechef/problems/PLMU.cpp)        |
 |   32   | [ANUARM](https://www.codechef.com/problems/ANUARM)             | [Solution](codechef/problems/ANUARM.cpp)      |
+|   33   | [MATCHES](https://www.codechef.com/problems/MATCHES)           | [Solution](codechef/problems/MATCHES.cpp)     |
+|   34   | [DOLL](https://www.codechef.com/problems/DOLL)                 | [Solution](codechef/problems/DOLL.cpp)        |
+|   35   | [NUM239](https://www.codechef.com/problems/NUM239)             | [Solution](codechef/problems/NUM239.cpp)      |
+|   36   | [CFRTEST](https://www.codechef.com/problems/CFRTEST)           | [Solution](codechef/problems/CFRTEST.cpp)     |
+|   37   | [WATSCORE](https://www.codechef.com/problems/WATSCORE)         | [Solution](codechef/problems/WATSCORE.cpp)    |
+|   38   | [PROC18A](https://www.codechef.com/problems/PROC18A)           | [Solution](codechef/problems/PROC18A.cpp)     |
+|   39   | [PLAYSTR](https://www.codechef.com/problems/PLAYSTR)           | [Solution](codechef/problems/PLAYSTR.cpp)     |
+|   40   | [MATPAN](https://www.codechef.com/problems/MATPAN)             | [Solution](codechef/problems/MATPAN.cpp)      |
+|   41   | [LAPIN](https://www.codechef.com/problems/LAPIN)               | [Solution](codechef/problems/LAPIN.cpp)       |
+|   42   | [TREE2](https://www.codechef.com/problems/TREE2)               | [Solution](codechef/problems/TREE2.cpp)       |
+|   43   | [TALLER](https://www.codechef.com/problems/TALLER)             | [Solution](codechef/problems/TALLER.cpp)      |
+|   44   | [SEMCOURSES](https://www.codechef.com/problems/SEMCOURSES)     | [Solution](codechef/problems/SEMCOURSES.cpp)  |
 
 
-<!-- |      | []()                                                                                     |            |                         [Solution](codechef/problems)                         | -->
 
 
 ## Contests
