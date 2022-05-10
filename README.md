@@ -17,40 +17,40 @@
 # Codechef
 ## Problem Set
 
-| Sr No. | Problems                                                                                 | Code        |                                   Solution                                    |
-| :----: | ---------------------------------------------------------------------------------------- | :---------- | :---------------------------------------------------------------------------: |
-|   01   | [ATM Machine](https://www.codechef.com/problems/ATM2)                                    | ATM2        |                [Solution](codechef/problems/ATM%20Machine.cpp)                |
-|   02   | [Airline Restrictions](https://www.codechef.com/problems/AIRLINE)                        | AIRLINE     |           [Solution](codechef/problems/Airline%20Restrictions.cpp)            |
-|   03   | [Battery Low](https://www.codechef.com/problems/BATTERYLOW)                              | BATTERYLOW  |                [Solution](codechef/problems/Battery%20Low.cpp)                |
-|   04   | [Bear and Ladder](https://www.codechef.com/problems/BRLADDER)                            | BRLADDER    |             [Solution](codechef/problems/Bear%20and%20Ladder.cpp)             |
-|   05   | [Chef and Card Game](https://www.codechef.com/problems/CRDGAME)                          | CRDGAME     |          [Solution](codechef/problems/Chef%20and%20Card%20Game.cpp)           |
-|   06   | [Chef and Difficult Contests](https://www.codechef.com/problems/CHFTIRED)                | CHFTIRED    |      [Solution](codechef/problems/Chef%20and%20Difficult%20Contests.cpp)      |
-|   07   | [Chef and Fruits](https://www.codechef.com/problems/FRUITS)                              | FRUITS      |             [Solution](codechef/problems/Chef%20and%20Fruits.cpp)             |
-|   08   | [Chef and the Hair Salon](https://www.codechef.com/problems/CHEFBARBER)                  | CHEFBARBER  |       [Solution](codechef/problems/Chef%20and%20the%20Hair%20Salon.cpp)       |
-|   09   | [Fill the Bucket](https://www.codechef.com/problems/FBC)                                 | FBC         |             [Solution](codechef/problems/Fill%20the%20Bucket.cpp)             |
-|   10   | [Four Equidistant Points on a Grid](https://www.codechef.com/LTIME105A/problems/DISTCON) | DISTCON     | [Solution](codechef/problems/Four%20Equidistant%20Points%20on%20a%20Grid.cpp) |
-|   11   | [Magician versus Chef](https://www.codechef.com/problems/MAGICHF)                        | MAGICHF     |          [Solution](codechef/problems/Magician%20versus%20Chef.cpp)           |
-|   12   | [Motivation](https://www.codechef.com/problems/IMDB)                                     | IMDB        |                 [Solution](codechef/problems/Motivation.cpp)                  |
-|   13   | [Multiple Choice Exam](https://www.codechef.com/problems/EXAM1)                          | EXAM1       |          [Solution](codechef/problems/Multiple%20Choice%20Exam.cpp)           |
-|   14   | [N Queens Puzzle Solved !](https://www.codechef.com/problems/EUREKA)                     | EUREKA      |        [Solution](codechef/problems/N%20Queens%20Puzzle%20Solved.cpp)         |
-|   15   | [Pass or Fail](https://www.codechef.com/problems/PASSORFAIL)                             | PASSORFAIL  |              [Solution](codechef/problems/Pass%20or%20Fail.cpp)               |
-|   16   | [Shopping Change](https://www.codechef.com/problems/SHOPCHANGE)                          | SHOPCHANGE  |              [Solution](codechef/problems/Shopping%20Change.cpp)              |
-|   17   | [Summer Heat](https://www.codechef.com/problems/COCONUT)                                 | COCONUT     |                [Solution](codechef/problems/Summer%20Heat.cpp)                |
-|   18   | [TCS Examination](https://www.codechef.com/problems/EXAMTIME)                            | EXAMTIME    |              [Solution](codechef/problems/TCS%20Examination.cpp)              |
-|   18   | [Two vs Ten](https://www.codechef.com/problems/TWOVSTEN)                                 | TWOVSTEN    |               [Solution](codechef/problems/Two%20vs%20Ten.cpp)                |
-|   20   | [Tyre Problem](https://www.codechef.com/problems/TYRE)                                   | TYRE        |               [Solution](codechef/problems/Tyre%20problem.cpp)                |
-|   21   | [Weight Balance ](https://www.codechef.com/problems/WEIGHTBL)                            | WEIGHTBL    |              [Solution](codechef/problems/Weight%20Balance.cpp)               |
-|   22   | [Chef and Socks](https://www.codechef.com/problems/CHEFSOCK)                             | CHEFSOCK    |             [Solution](codechef/problems/Chef%20and%20Socks.cpp)              |
-|   23   | [Credit score](https://www.codechef.com/problems/CREDSCORE)                              | CREDSCORE   |               [Solution](codechef/problems/Credit%20Score.cpp)                |
-|   24   | [CRED Coins](https://www.codechef.com/problems/CREDCOINS)                                | CREDCOINS   |                [Solution](codechef/problems/CRED%20Coins.cpp)                 |
-|   25   | [Sign Moves](https://www.codechef.com/problems/SIGNMOVE)                                 | SIGNMOVE    |                [Solution](codechef/problems/Sign%20Moves.cpp)                 |
-|   26   | [The Unchanging OR](https://www.codechef.com/problems/UNCHANGEDOR)                       | UNCHANGEDOR |            [Solution](codechef/problems/The%20Unchanging%20OR.cpp)            |
-|   27   | [Coronavirus Spread ](https://www.codechef.com/problems/COVID19)                         | COVID19     |            [Solution](codechef/problems/Coronavirus%20Spread.cpp)             |
-|   28   | [Chef and digits of a number](https://www.codechef.com/problems/LONGSEQ)                 | LONGSEQ     |    [Solution](codechef/problems/Chef%20and%20digits%20of%20a%20number.cpp)    |
-|   29   | [Brackets](https://www.codechef.com/problems/BRACKETS)                                   | BRACKETS    |                  [Solution](codechef/problems/Brackets.cpp)                   |
-|   30   | [Making a Meal](https://www.codechef.com/problems/CFMM)                                  | CFMM        |              [Solution](codechef/problems/Making%20a%20Meal.cpp)              |
-|   31   | [Plus Multiply](https://www.codechef.com/problems/PLMU)                                  | PLMU        |               [Solution](codechef/problems/Plus%20Multiply.cpp)               |
-|   32   | [The Army](https://www.codechef.com/problems/ANUARM)                                     | ANUARM      |                 [Solution](codechef/problems/The%20Army.cpp)                  |
+| Sr No. | Problem Code                                                   | Solution                                      |
+| :----: | :------------------------------------------------------------- | :-------------------------------------------- |
+|   01   | [ATM2](https://www.codechef.com/problems/ATM2)                 | [Solution](codechef/problems/ATM2.cpp)        |
+|   02   | [AIRLINE](https://www.codechef.com/problems/AIRLINE)           | [Solution](codechef/problems/AIRLINE.cpp)     |
+|   03   | [BATTERYLOW](https://www.codechef.com/problems/BATTERYLOW)     | [Solution](codechef/problems/BATTERYLOW.cpp)  |
+|   04   | [BRLADDER](https://www.codechef.com/problems/BRLADDER)         | [Solution](codechef/problems/BRLADDER.cpp)    |
+|   05   | [CRDGAME](https://www.codechef.com/problems/CRDGAME)           | [Solution](codechef/problems/CRDGAME.cpp)     |
+|   06   | [CHFTIRED](https://www.codechef.com/problems/CHFTIRED)         | [Solution](codechef/problems/CHFTIRED.cpp)    |
+|   07   | [FRUITS](https://www.codechef.com/problems/FRUITS)             | [Solution](codechef/problems/FRUITS.cpp)      |
+|   08   | [CHEFBARBER](https://www.codechef.com/problems/CHEFBARBER)     | [Solution](codechef/problems/CHEFBARBER.cpp)  |
+|   09   | [FBC](https://www.codechef.com/problems/FBC)                   | [Solution](codechef/problems/FBC.cpp)         |
+|   10   | [DISTCON](https://www.codechef.com/LTIME105A/problems/DISTCON) | [Solution](codechef/problems/DISTCON.cpp)     |
+|   11   | [MAGICHF](https://www.codechef.com/problems/MAGICHF)           | [Solution](codechef/problems/MAGICHF.cpp)     |
+|   12   | [IMDB](https://www.codechef.com/problems/IMDB)                 | [Solution](codechef/problems/IMDB.cpp)        |
+|   13   | [EXAM1](https://www.codechef.com/problems/EXAM1)               | [Solution](codechef/problems/EXAM1.cpp)       |
+|   14   | [EUREKA](https://www.codechef.com/problems/EUREKA)             | [Solution](codechef/problems/EUREKA.cpp)      |
+|   15   | [PASSORFAIL](https://www.codechef.com/problems/PASSORFAIL)     | [Solution](codechef/problems/PASSORFAIL.cpp)  |
+|   16   | [SHOPCHANGE](https://www.codechef.com/problems/SHOPCHANGE)     | [Solution](codechef/problems/SHOPCHANGE.cpp)  |
+|   17   | [COCONUT](https://www.codechef.com/problems/COCONUT)           | [Solution](codechef/problems/COCONUT.cpp)     |
+|   18   | [EXAMTIME](https://www.codechef.com/problems/EXAMTIME)         | [Solution](codechef/problems/EXAMTIME.cpp)    |
+|   18   | [TWOVSTEN](https://www.codechef.com/problems/TWOVSTEN)         | [Solution](codechef/problems/TWOVSTEN.cpp)    |
+|   20   | [TYRE](https://www.codechef.com/problems/TYRE)                 | [Solution](codechef/problems/TYRE.cpp)        |
+|   21   | [WEIGHTBL](https://www.codechef.com/problems/WEIGHTBL)         | [Solution](codechef/problems/WEIGHTBL.cpp)    |
+|   22   | [CHEFSOCK](https://www.codechef.com/problems/CHEFSOCK)         | [Solution](codechef/problems/CHEFSOCK.cpp)    |
+|   23   | [CREDSCORE](https://www.codechef.com/problems/CREDSCORE)       | [Solution](codechef/problems/CREDSCORE.cpp)   |
+|   24   | [CREDCOINS](https://www.codechef.com/problems/CREDCOINS)       | [Solution](codechef/problems/CREDCOINS.cpp)   |
+|   25   | [SIGNMOVE](https://www.codechef.com/problems/SIGNMOVE)         | [Solution](codechef/problems/SIGNMOVE.cpp)    |
+|   26   | [UNCHANGEDOR](https://www.codechef.com/problems/UNCHANGEDOR)   | [Solution](codechef/problems/UNCHANGEDOR.cpp) |
+|   27   | [COVID19](https://www.codechef.com/problems/COVID19)           | [Solution](codechef/problems/COVID19.cpp)     |
+|   28   | [LONGSEQ](https://www.codechef.com/problems/LONGSEQ)           | [Solution](codechef/problems/LONGSEQ.cpp)     |
+|   29   | [BRACKETS](https://www.codechef.com/problems/BRACKETS)         | [Solution](codechef/problems/BRACKETS.cpp)    |
+|   30   | [CFMM](https://www.codechef.com/problems/CFMM)                 | [Solution](codechef/problems/CFMM.cpp)        |
+|   31   | [PLMU](https://www.codechef.com/problems/PLMU)                 | [Solution](codechef/problems/PLMU.cpp)        |
+|   32   | [ANUARM](https://www.codechef.com/problems/ANUARM)             | [Solution](codechef/problems/ANUARM.cpp)      |
 
 
 <!-- |      | []()                                                                                     |            |                         [Solution](codechef/problems)                         | -->
@@ -60,14 +60,14 @@
 
 ### [March Long - II 2022 (MARCH222)](https://www.codechef.com/MARCH222)
 
-| Sr No. | Problems                                                                                      | Code        |                                             Solution                                             |
-| :----: | --------------------------------------------------------------------------------------------- | :---------- | :----------------------------------------------------------------------------------------------: |
-|   1    | [Increase IQ](https://www.codechef.com/MARCH222D/problems/INCRIQ)                             | INCRIQ      |                 [Solution](codechef/March%20Long%20Two%202022/Increase%20IQ.cpp)                 |
-|   2    | [The Three Topics](https://www.codechef.com/MARCH222D/problems/THREETOPICS)                   | THREETOPICS |             [Solution](codechef/March%20Long%20Two%202022/The%20Three%20Topics.cpp)              |
-|   3    | [Chef and Races](https://www.codechef.com/MARCH222D/problems/CHEFRACES)                       | CHEFRACES   |              [Solution](codechef/March%20Long%20Two%202022/Chef%20and%20Races.cpp)               |
-|   4    | [The Rating Dilemma](https://www.codechef.com/MARCH222D/problems/RATING)                      | RATING      |            [Solution](codechef/March%20Long%20Two%202022/The%20Rating%20Dilemma.cpp)             |
-|   5    | [Missing Numbers](https://www.codechef.com/MARCH222D/problems/MISS_NUM)                       | MISS_NUM    |               [Solution](codechef/March%20Long%20Two%202022/Missing%20Numbers.cpp)               |
-|   6    | [Same Parity Swaps in Binary Strings](https://www.codechef.com/MARCH222D/problems/MAX01EVSWP) | MAX01EVSWP  | [Solution](codechef/March%20Long%20Two%202022/Same%20Parity%20Swaps%20in%20Binary%20Strings.cpp) |
+| Sr No. | Problems                                                               | Solution                                                       |
+| :----: | :--------------------------------------------------------------------- | -------------------------------------------------------------- |
+|   1    | [INCRIQ](https://www.codechef.com/MARCH222D/problems/INCRIQ)           | [Solution](codechef/March%20Long%20Two%202022/INCRIQ.cpp)      |
+|   2    | [THREETOPICS](https://www.codechef.com/MARCH222D/problems/THREETOPICS) | [Solution](codechef/March%20Long%20Two%202022/THREETOPICS.cpp) |
+|   3    | [CHEFRACES](https://www.codechef.com/MARCH222D/problems/CHEFRACES)     | [Solution](codechef/March%20Long%20Two%202022/CHEFRACES.cpp)   |
+|   4    | [RATING](https://www.codechef.com/MARCH222D/problems/RATING)           | [Solution](codechef/March%20Long%20Two%202022/RATING.cpp)      |
+|   5    | [MISS_NUM](https://www.codechef.com/MARCH222D/problems/MISS_NUM)       | [Solution](codechef/March%20Long%20Two%202022/MISS_NUM.cpp)    |
+|   6    | [MAX01EVSWP](https://www.codechef.com/MARCH222D/problems/MAX01EVSWP)   | [Solution](codechef/March%20Long%20Two%202022/MAX01EVSWP.cpp)  |
 
 ### [April Cook-Off 2022 (COOK140)](https://www.codechef.com/COOK140/)
 
