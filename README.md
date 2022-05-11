@@ -1,4 +1,6 @@
 
+- [Codeforces](#codeforces)
+  - [Problems + Contest](#problems--contest)
 - [Codechef](#codechef)
   - [Problem Set](#problem-set)
   - [Contests](#contests)
@@ -15,6 +17,61 @@
     - [Starters 37 (START37)](#starters-37-start37)
     - [May Long - I  2022 (MAY221)](#may-long---i--2022-may221)
   
+
+
+# Codeforces
+
+## Problems + Contest
+
+| Sr. No. | Problem Code                                              | Solution                          |
+| :-----: | :-------------------------------------------------------- | :-------------------------------- |
+|   001   | [4A](https://codeforces.com/problemset/problem/4/A)       | [Solution](/Codeforces/4A.cpp)    |
+|   002   | [41A](https://codeforces.com/problemset/problem/41/A)     | [Solution](/Codeforces/41A.cpp)   |
+|   003   | [50A](https://codeforces.com/problemset/problem/50/A)     | [Solution](/Codeforces/50A.cpp)   |
+|   004   | [59A](https://codeforces.com/problemset/problem/59/A)     | [Solution](/Codeforces/59A.cpp)   |
+|   005   | [61A](https://codeforces.com/problemset/problem/61A/A)    | [Solution](/Codeforces/61A.cpp)   |
+|   006   | [71A](https://codeforces.com/problemset/problem/71/A)     | [Solution](/Codeforces/71A.cpp)   |
+|   007   | [110A](https://codeforces.com/problemset/problem/110/A)   | [Solution](/Codeforces/110A.cpp)  |
+|   008   | [112A](https://codeforces.com/problemset/problem/112/A)   | [Solution](/Codeforces/112A.cpp)  |
+|   009   | [116A](https://codeforces.com/problemset/problem/116/A)   | [Solution](/Codeforces/116A.cpp)  |
+|   010   | [136A](https://codeforces.com/problemset/problem/136/A)   | [Solution](/Codeforces/136A.cpp)  |
+|   011   | [158A](https://codeforces.com/problemset/problem/158/A)   | [Solution](/Codeforces/158A.cpp)  |
+|   012   | [231A](https://codeforces.com/problemset/problem/231/A)   | [Solution](/Codeforces/231A.cpp)  |
+|   013   | [236A](https://codeforces.com/problemset/problem/236/A)   | [Solution](/Codeforces/236A.cpp)  |
+|   014   | [263A](https://codeforces.com/problemset/problem/263/A)   | [Solution](/Codeforces/263A.cpp)  |
+|   015   | [266A](https://codeforces.com/problemset/problem/266/A)   | [Solution](/Codeforces/266A.cpp)  |
+|   016   | [266B](https://codeforces.com/problemset/problem/266/B)   | [Solution](/Codeforces/266B.cpp)  |
+|   017   | [271A](https://codeforces.com/problemset/problem/271/A)   | [Solution](/Codeforces/271A.cpp)  |
+|   018   | [281A](https://codeforces.com/problemset/problem/281/A)   | [Solution](/Codeforces/281A.cpp)  |
+|   019   | [282A](https://codeforces.com/problemset/problem/282/A)   | [Solution](/Codeforces/282A.cpp)  |
+|   020   | [339A](https://codeforces.com/problemset/problem/339/A)   | [Solution](/Codeforces/339A.cpp)  |
+|   021   | [344A](https://codeforces.com/problemset/problem/344/A)   | [Solution](/Codeforces/344A.cpp)  |
+|   022   | [467A](https://codeforces.com/problemset/problem/467/A)   | [Solution](/Codeforces/467A.cpp)  |
+|   023   | [486A](https://codeforces.com/problemset/problem/486A/A)  | [Solution](/Codeforces/486A.cpp)  |
+|   024   | [546A](https://codeforces.com/problemset/problem/546/A)   | [Solution](/Codeforces/546A.cpp)  |
+|   025   | [617A](https://codeforces.com/problemset/problem/617/A)   | [Solution](/Codeforces/617A.cpp)  |
+|   026   | [677A](https://codeforces.com/problemset/problem/677/A)   | [Solution](/Codeforces/677A.cpp)  |
+|   027   | [705A](https://codeforces.com/problemset/problem/705/A)   | [Solution](/Codeforces/705A.cpp)  |
+|   028   | [734A](https://codeforces.com/problemset/problem/734/A)   | [Solution](/Codeforces/734A.cpp)  |
+|   029   | [791A](https://codeforces.com/problemset/problem/791/A)   | [Solution](/Codeforces/791A.cpp)  |
+|   030   | [977A](https://codeforces.com/problemset/problem/977/A)   | [Solution](/Codeforces/977A.cpp)  |
+|   031   | [1030A](https://codeforces.com/problemset/problem/1030/A) | [Solution](/Codeforces/1030A.cpp) |
+|   032   | [1646A](https://codeforces.com/problemset/problem/1646/A) | [Solution](/Codeforces/1646A.cpp) |
+|   033   | [1659A](https://codeforces.com/problemset/problem/1659/A) | [Solution](/Codeforces/1659A.cpp) |
+|   034   | [1663A](https://codeforces.com/problemset/problem/1663/A) | [Solution](/Codeforces/1663A.cpp) |
+|   035   | [1663C](https://codeforces.com/problemset/problem/1663/C) | [Solution](/Codeforces/1663C.cpp) |
+|   036   | [1669A](https://codeforces.com/problemset/problem/1669/A) | [Solution](/Codeforces/1669A.cpp) |
+|   037   | [1669B](https://codeforces.com/problemset/problem/1669/B) | [Solution](/Codeforces/1669B.cpp) |
+|   038   | [1669C](https://codeforces.com/problemset/problem/1669/C) | [Solution](/Codeforces/1669C.cpp) |
+|   039   | [1669D](https://codeforces.com/problemset/problem/1669/D) | [Solution](/Codeforces/1669D.cpp) |
+|   040   | [1672B](https://codeforces.com/problemset/problem/1672/B) | [Solution](/Codeforces/1672B.cpp) |
+|   041   | [1676A](https://codeforces.com/problemset/problem/1676/A) | [Solution](/Codeforces/1676A.cpp) |
+|   042   | [1676B](https://codeforces.com/problemset/problem/1676/B) | [Solution](/Codeforces/1676B.cpp) |
+|   043   | [1676C](https://codeforces.com/problemset/problem/1676/C) | [Solution](/Codeforces/1676C.cpp) |
+
+
+<!-- | 044 | [](https://codeforces.com/problemset/problem/977/A) | [Solution](/Codeforces/.cpp) | -->
+
 # Codechef
 ## Problem Set
 
