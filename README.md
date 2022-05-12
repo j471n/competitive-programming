@@ -16,6 +16,7 @@
     - [April Long - II  2022 (APRIL222)](#april-long---ii--2022-april222)
     - [Starters 37 (START37)](#starters-37-start37)
     - [May Long - I  2022 (MAY221)](#may-long---i--2022-may221)
+    - [Starters 38 (START38)](#starters-38-start38)
   
 
 
@@ -121,6 +122,10 @@
 |   42   | [TREE2](https://www.codechef.com/problems/TREE2)               | [Solution](codechef/problems/TREE2.cpp)       |
 |   43   | [TALLER](https://www.codechef.com/problems/TALLER)             | [Solution](codechef/problems/TALLER.cpp)      |
 |   44   | [SEMCOURSES](https://www.codechef.com/problems/SEMCOURSES)     | [Solution](codechef/problems/SEMCOURSES.cpp)  |
+|   45   | [THREEBOX](https://www.codechef.com/problems/THREEBOX)         | [Solution](codechef/problems/THREEBOX.cpp)    |
+|   46   | [BUYING2](https://www.codechef.com/problems/BUYING2)           | [Solution](codechef/problems/BUYING2.cpp)     |
+|   47   | [CIELAB](https://www.codechef.com/problems/CIELAB)             | [Solution](codechef/problems/CIELAB.cpp)      |
+|   48   | [RECTANGL](https://www.codechef.com/problems/RECTANGL)         | [Solution](codechef/problems/RECTANGL.cpp)    |
 
 
 
@@ -264,6 +269,16 @@
 |   3    | [SUGARCANE](https://www.codechef.com/MAY221D/problems/SUGARCANE)     |  [Solution](/codechef/May%20Long%20One%202022/SUGARCANE.cpp)  |
 |   4    | [QUEENATTACK](https://www.codechef.com/MAY221D/problems/QUEENATTACK) | [Solution](/codechef/May%20Long%20One%202022/QUEENATTACK.cpp) |
 
+
+### [Starters 38 (START38)](https://www.codechef.com/START38)
+
+| Sr No. | Problem Code                                                      |                     Solution                      |
+| :----: | ----------------------------------------------------------------- | :-----------------------------------------------: |
+|   1    | [SUBSCRIBE](https://www.codechef.com/START38D/problems/SUBSCRIBE) | [Solution](/codechef/Starters%2038/SUBSCRIBE.cpp) |
+|   2    | [PARTY2](https://www.codechef.com/START38D/problems/PARTY2)       |  [Solution](/codechef/Starters%2038/PARTY2.cpp)   |
+|   3    | [DOMINANT](https://www.codechef.com/START38D/problems/DOMINANT)   | [Solution](/codechef/Starters%2038/DOMINANT.cpp)  |
+|   4    | [LOOP](https://www.codechef.com/START38D/problems/LOOP)           |   [Solution](/codechef/Starters%2038/LOOP.cpp)    |
+|   5    | [AVGGIFT](https://www.codechef.com/START38D/problems/AVGGIFT)     |  [Solution](/codechef/Starters%2038/AVGGIFT.cpp)  |
 
 
 <!-- | Sr No. | Problem Code |   Solution   |
