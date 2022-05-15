@@ -17,6 +17,7 @@
     - [Starters 37 (START37)](#starters-37-start37)
     - [May Long - I  2022 (MAY221)](#may-long---i--2022-may221)
     - [Starters 38 (START38)](#starters-38-start38)
+    - [May Lunchtime 2022](#may-lunchtime-2022)
   
 
 
@@ -280,6 +281,14 @@
 |   4    | [LOOP](https://www.codechef.com/START38D/problems/LOOP)           |   [Solution](/codechef/Starters%2038/LOOP.cpp)    |
 |   5    | [AVGGIFT](https://www.codechef.com/START38D/problems/AVGGIFT)     |  [Solution](/codechef/Starters%2038/AVGGIFT.cpp)  |
 
+
+### [May Lunchtime 2022](https://www.codechef.com/LTIME108)
+| Sr No. | Problem Code                                                       |                          Solution                          |
+| :----: | ------------------------------------------------------------------ | :--------------------------------------------------------: |
+|   1    | [PRACLIST](https://www.codechef.com/LTIME107D/problems/PRACLIST)   | [Solution](/codechef/May%20Lunchtime%202022/PRACLIST.cpp)  |
+|   2    | [TODOLIST](https://www.codechef.com/LTIME107D/problems/TODOLIST)   | [Solution](/codechef/May%20Lunchtime%202022/TODOLIST.cpp)  |
+|   3    | [APPLORNG](https://www.codechef.com/LTIME107D/problems/APPLORNG)   | [Solution](/codechef/May%20Lunchtime%202022/APPLORNG.cpp)  |
+|   4    | [WATERFLOW](https://www.codechef.com/LTIME107D/problems/WATERFLOW) | [Solution](/codechef/May%20Lunchtime%202022/WATERFLOW.cpp) |
 
 <!-- | Sr No. | Problem Code |   Solution   |
 | :----: | ------------ | :----------: |
