@@ -128,6 +128,15 @@
 |   46   | [BUYING2](https://www.codechef.com/problems/BUYING2)           | [Solution](codechef/problems/BUYING2.cpp)     |
 |   47   | [CIELAB](https://www.codechef.com/problems/CIELAB)             | [Solution](codechef/problems/CIELAB.cpp)      |
 |   48   | [RECTANGL](https://www.codechef.com/problems/RECTANGL)         | [Solution](codechef/problems/RECTANGL.cpp)    |
+|   49   | [VOTERS](https://www.codechef.com/problems/VOTERS)             | [Solution](codechef/problems/VOTERS.cpp)      |
+|   50   | [ZCOSCH](https://www.codechef.com/problems/ZCOSCH)             | [Solution](codechef/problems/ZCOSCH.cpp)      |
+|   51   | [MISSP](https://www.codechef.com/problems/MISSP)               | [Solution](codechef/problems/MISSP.cpp)       |
+|   52   | [DIET](https://www.codechef.com/problems/DIET)                 | [Solution](codechef/problems/DIET.cpp)        |
+|   53   | [TABLET](https://www.codechef.com/problems/TABLET)             | [Solution](codechef/problems/TABLET.cpp)      |
+|   54   | [CNDLOVE](https://www.codechef.com/problems/CNDLOVE)           | [Solution](codechef/problems/CNDLOVE.cpp)     |
+|   55   | [S01E01](https://www.codechef.com/problems/S01E01)             | [Solution](codechef/problems/S01E01.cpp)      |
+|   56   | [CLLCM](https://www.codechef.com/problems/CLLCM)               | [Solution](codechef/problems/CLLCM.cpp)       |
+|   57   | [CHFDBT](https://www.codechef.com/problems/CHFDBT)             | [Solution](codechef/problems/CHFDBT.cpp)      |
 
 
 
@@ -293,12 +302,12 @@
 
 ### [May Long - II  2022 (MAY222)](https://www.codechef.com/MAY222)
 
-| Sr No. | Problem Code                                   |                           Solution                            |
-| :----: | ---------------------------------------------- | :-----------------------------------------------------------: |
-|   1    | [PRIZEPOOL](https://www.codechef.com/MAY222D/problems/PRIZEPOOL) |   [Solution](/codechef/May%20Long%20One%202022/PRIZEPOOL.cpp)   |
-|   2    | [PRACTICEPERF](https://www.codechef.com/MAY222D/problems/PRACTICEPERF) |   [Solution](/codechef/May%20Long%20One%202022/PRACTICEPERF.cpp)    |
-|   3    | [HIGHSCORE](https://www.codechef.com/MAY222D/problems/HIGHSCORE) |  [Solution](/codechef/May%20Long%20One%202022/HIGHSCORE.cpp)  |
-|   4    | [DPOLY](https://www.codechef.com/MAY222D/problems/DPOLY) | [Solution](/codechef/May%20Long%20One%202022/DPOLY.cpp) |
+| Sr No. | Problem Code                                                           |                            Solution                            |
+| :----: | ---------------------------------------------------------------------- | :------------------------------------------------------------: |
+|   1    | [PRIZEPOOL](https://www.codechef.com/MAY222D/problems/PRIZEPOOL)       |  [Solution](/codechef/May%20Long%20One%202022/PRIZEPOOL.cpp)   |
+|   2    | [PRACTICEPERF](https://www.codechef.com/MAY222D/problems/PRACTICEPERF) | [Solution](/codechef/May%20Long%20One%202022/PRACTICEPERF.cpp) |
+|   3    | [HIGHSCORE](https://www.codechef.com/MAY222D/problems/HIGHSCORE)       |  [Solution](/codechef/May%20Long%20One%202022/HIGHSCORE.cpp)   |
+|   4    | [DPOLY](https://www.codechef.com/MAY222D/problems/DPOLY)               |    [Solution](/codechef/May%20Long%20One%202022/DPOLY.cpp)     |
 
 
 <!-- | Sr No. | Problem Code |   Solution   |
