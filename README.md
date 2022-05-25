@@ -18,6 +18,7 @@
     - [May Long - I  2022 (MAY221)](#may-long---i--2022-may221)
     - [Starters 38 (START38)](#starters-38-start38)
     - [May Lunchtime 2022](#may-lunchtime-2022)
+    - [May Long - II  2022 (MAY222)](#may-long---ii--2022-may222)
   
 
 
@@ -290,6 +291,16 @@
 |   3    | [APPLORNG](https://www.codechef.com/LTIME107D/problems/APPLORNG)   | [Solution](/codechef/May%20Lunchtime%202022/APPLORNG.cpp)  |
 |   4    | [WATERFLOW](https://www.codechef.com/LTIME107D/problems/WATERFLOW) | [Solution](/codechef/May%20Lunchtime%202022/WATERFLOW.cpp) |
 
+### [May Long - II  2022 (MAY222)](https://www.codechef.com/MAY222)
+
+| Sr No. | Problem Code                                   |                           Solution                            |
+| :----: | ---------------------------------------------- | :-----------------------------------------------------------: |
+|   1    | [PRIZEPOOL](https://www.codechef.com/MAY222D/problems/PRIZEPOOL) |   [Solution](/codechef/May%20Long%20One%202022/PRIZEPOOL.cpp)   |
+|   2    | [PRACTICEPERF](https://www.codechef.com/MAY222D/problems/PRACTICEPERF) |   [Solution](/codechef/May%20Long%20One%202022/PRACTICEPERF.cpp)    |
+|   3    | [HIGHSCORE](https://www.codechef.com/MAY222D/problems/HIGHSCORE) |  [Solution](/codechef/May%20Long%20One%202022/HIGHSCORE.cpp)  |
+|   4    | [DPOLY](https://www.codechef.com/MAY222D/problems/DPOLY) | [Solution](/codechef/May%20Long%20One%202022/DPOLY.cpp) |
+
+
 <!-- | Sr No. | Problem Code |   Solution   |
 | :----: | ------------ | :----------: |
-| 1 | []() | [Solution]() | -->
+| 1 | []() | [olution]() | -->
