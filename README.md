@@ -19,6 +19,7 @@
     - [Starters 38 (START38)](#starters-38-start38)
     - [May Lunchtime 2022](#may-lunchtime-2022)
     - [May Long - II  2022 (MAY222)](#may-long---ii--2022-may222)
+    - [Starters 40 (START40)](#starters-40-start40)
   
 
 
@@ -308,6 +309,17 @@
 |   2    | [PRACTICEPERF](https://www.codechef.com/MAY222D/problems/PRACTICEPERF) | [Solution](/codechef/May%20Long%20One%202022/PRACTICEPERF.cpp) |
 |   3    | [HIGHSCORE](https://www.codechef.com/MAY222D/problems/HIGHSCORE)       |  [Solution](/codechef/May%20Long%20One%202022/HIGHSCORE.cpp)   |
 |   4    | [DPOLY](https://www.codechef.com/MAY222D/problems/DPOLY)               |    [Solution](/codechef/May%20Long%20One%202022/DPOLY.cpp)     |
+
+
+### [Starters 40 (START40)](https://www.codechef.com/START40)
+
+| Sr No. | Problem Code                                                            |                       Solution                       |
+| :----: | ----------------------------------------------------------------------- | :--------------------------------------------------: |
+|   1    | [DOUBTSUPPORT](https://www.codechef.com/START40D/problems/DOUBTSUPPORT) | [Solution](/codechef/Starters%2040/DOUBTSUPPORT.cpp) |
+|   2    | [WHATSAPP](https://www.codechef.com/START40D/problems/WHATSAPP)         |   [Solution](/codechef/Starters%2040/WHATSAPP.cpp)   |
+|   3    | [RATINGINPRAC](https://www.codechef.com/START40D/problems/RATINGINPRAC) | [Solution](/codechef/Starters%2040/RATINGINPRAC.cpp) |
+|   4    | [DISCOUNTT](https://www.codechef.com/START40D/problems/DISCOUNTT)       |  [Solution](/codechef/Starters%2040/DISCOUNTT.cpp)   |
+
 
 
 <!-- | Sr No. | Problem Code |   Solution   |
